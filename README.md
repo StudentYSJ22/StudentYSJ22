@@ -1,4 +1,4 @@
-## 안녕하세요, 개발이 재밌어서 개발자가 되고싶은 유승주입니다.
+## 안녕하세요, 자바가 재밌어서 자바개발자가 되고싶은 유승주입니다.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentYSJ22&layout=compact)](https://github.com/delay-100/github-readme-stats)
 
