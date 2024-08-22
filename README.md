@@ -1,6 +1,6 @@
 ## 안녕하세요, 자바가 재밌어서 자바개발자가 되고싶은 유승주입니다.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentYSJ22&layout=compact)](https://github.com/delay-100/github-readme-stats)
+
 
 ## Tech Stacks 
 <div>
@@ -13,6 +13,8 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StudentYSJ22&layout=compact)](https://github.com/delay-100/github-readme-stats)
 <!--
 **StudentYSJ22/StudentYSJ22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
